@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rajesh chauhan
 
-🚀 **Full Stack software engineer | Open Source Contributor | Tech Enthusiast**  
+🚀 **Full Stack Software Engineer | Open Source Contributor | Tech Enthusiast**  
 
 🌱 Currently working on **D2C AI Ecommerce**  
 🔹 Passionate about web development & DevOps  
