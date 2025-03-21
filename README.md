@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm Rajesh chauhan
+🚀 Dependable Full Stack Software Engineer with 5+ years of experience building global POS and eCommerce solutions. Skilled in designing scalable architectures, optimizing workflows (30% fintech latency reduction), and integrating AI into legacy systems. Passionate about cloud architecture, bridging tech with business goals, and driving innovation. 🔥
+
 
 🚀 **Full Stack Software Engineer | Open Source Contributor | Tech Enthusiast**  
 
